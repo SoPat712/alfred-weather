@@ -7,6 +7,7 @@ import (
 	"net/url"
 	"time"
 )
+// sopat712
 var tmIconNames = map[int64]string{
 	  0: "clear",
       1000: "clear",
