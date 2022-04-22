@@ -1129,7 +1129,7 @@ This is a fork of https://github.com/jason0x43/alfred-weather, with some extra f
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>1.7.1</string>
+	<string>1.7.2</string>
 	<key>webaddress</key>
 	<string>https://github.com/SoPat712/alfred-weather</string>
 </dict>
